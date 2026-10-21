@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect — Campus Gig & SkillSwap Portal",
+  "description": "Campus Gig & SkillSwap Portal for university students to exchange skills, offer gigs, collaborate, and earn reputation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
